@@ -129,4 +129,14 @@ form button:hover {
   .images {
     grid-template-columns: 1fr;
   }
+
+  #prompt,
+  #num {
+    width: 300px;
+    max-width: 300px;
+  }
+
+  .image {
+    width: 350px;
+  }
 }
